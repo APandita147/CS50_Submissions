@@ -5,5 +5,8 @@ These are my personal submissions to the MOOC titled CS50: Introduction to Compu
 
 2. Week 1 consists of three assignments: a) Hello (https://cs50.harvard.edu/x/2023/psets/1/hello/); b) mario-more (https://cs50.harvard.edu/x/2023/psets/1/mario/more/); and c)credit (https://cs50.harvard.edu/x/2023/psets/1/credit/). It also includes the codes discussed in the Lab and some also from the lecture.
 
+3. Week 2 consists of three assignments: a) Scrabble (https://cs50.harvard.edu/x/2023/labs/2/) which was the Lab assignment; b) Readability (https://cs50.harvard.edu/x/2023/psets/2/readability/); and c) Wordle (https://cs50.harvard.edu/x/2023/psets/2/wordle50/). Also includes some code from the lectures.
+
+
 
 
